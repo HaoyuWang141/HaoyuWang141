@@ -2,7 +2,18 @@
 
 #### Undergraduate of [@SUSTech](https://www.sustech.edu.cn/en/), 2019 batch
 
-###### Course Repositories:
+#### Awards
+
+- [【2022 美赛F奖】](https://github.com/HaoyuWang141/2022-MCM-A-Finalist)
+
+#### I'm working on:
+
+- [【基于神经网络结构的纠删码】Nonlinear-Erasure-Code](https://github.com/HaoyuWang141/Nonlinear-Erasure-Code)
+- [【南科大足协系统 - 后端】SUSTech-Football](https://github.com/HaoyuWang141/SUSTech-Football)
+- [【南科大足协系统 - 前端】SUSTech-Football-Frontend](https://github.com/HaoyuWang141/SUSTech-Football-Frontend)
+- [【综合设计 - 电池生命周期预测】SUSTech-Battery-SOH-Prediction](https://github.com/HaoyuWang141/SUSTech-Battery-SOH-Prediction)
+
+#### Course Repositories:
 
 - [【数据结构与算法分析】SUSTech-CS203-Course](https://github.com/HaoyuWang141/SUSTech-CS203-Course)
 - [【数字逻辑】Sustech-CS207-PROJ](https://github.com/HaoyuWang141/Sustech-CS207-PROJ)
