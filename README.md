@@ -9,8 +9,6 @@
 #### I'm working on:
 
 - [【基于神经网络结构的纠删码】Nonlinear-Erasure-Code](https://github.com/HaoyuWang141/Nonlinear-Erasure-Code)
-- [【南科大足协系统 - 后端】SUSTech-Football](https://github.com/HaoyuWang141/SUSTech-Football)
-- [【南科大足协系统 - 前端】SUSTech-Football-Frontend](https://github.com/HaoyuWang141/SUSTech-Football-Frontend)
 - [【综合设计 - 电池生命周期预测】SUSTech-Battery-SOH-Prediction](https://github.com/HaoyuWang141/SUSTech-Battery-SOH-Prediction)
 
 #### Course Repositories:
