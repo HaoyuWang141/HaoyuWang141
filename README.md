@@ -8,7 +8,7 @@
 
 #### I'm working on:
 
-- [【基于神经网络结构的纠删码】Nonlinear-Erasure-Code](https://github.com/HaoyuWang141/Nonlinear-Erasure-Code)
+- [【基于神经网络结构的非线性编码】SUSTech-Coded-Computation](https://github.com/HaoyuWang141/SUSTech-Coded-Computation)
 - [【综合设计 - 电池生命周期预测】SUSTech-Battery-SOH-Prediction](https://github.com/HaoyuWang141/SUSTech-Battery-SOH-Prediction)
 
 #### Course Repositories:
